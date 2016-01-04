@@ -8,7 +8,6 @@
 
  Javid https://telegram.me/Iamjavid
 
-[Riccardo](https://github.com/Rmazz96) ([Telegram](https://telegram.me/Rlotar))
 
 ------------------------------------------------
 # Use Them In A Good Way
