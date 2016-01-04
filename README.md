@@ -6,7 +6,7 @@
 
 [I M /-\ N](https://github.com/imandaneshi) ([Telegram](https://telegram.me/imandaneshi))
 
- Javid(https://telegram.me/Iamjavid
+ Javid https://telegram.me/Iamjavid
 
 [Riccardo](https://github.com/Rmazz96) ([Telegram](https://telegram.me/Rlotar))
 
