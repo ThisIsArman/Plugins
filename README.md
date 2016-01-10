@@ -5,8 +5,8 @@
 * Special Tnx To 
 
 [I M /-\ N](https://github.com/imandaneshi) ([Telegram](https://telegram.me/imandaneshi))
-
- Javid https://telegram.me/Iamjavid
+[Amir](https://github.com/paydaar) ([Telegram](https://telegram.me/unfriendly))
+Javid https://telegram.me/Iamjavid
 
 
 ------------------------------------------------
