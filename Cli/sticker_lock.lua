@@ -387,7 +387,9 @@ function run(msg, matches)
         return show_group_settings(msg, data)
 		  end
     end
-
+if not is_momod(msg) then
+	return "Mods Only!"
+	end
     if matches[1] == 'sticker' then
       if matches[2] == 'warn' then
         if welcome_stat ~= 'warn' then
@@ -467,6 +469,9 @@ function run(msg, matches)
     end
 
     -- if sticker is sent
+    if not is_modmod(msg) then
+    	return "Mods only"
+    	end
     if msg.media and msg.media.caption == 'sticker.webp' and not is_momod(msg) then
       local user_id = msg.from.id
       local chat_id = msg.to.id
